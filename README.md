@@ -1,2 +1,2 @@
 # NowPlaying
-#NowPlaying Share-Application Project (Android)
+NowPlaying Share-Application Project (Android)
